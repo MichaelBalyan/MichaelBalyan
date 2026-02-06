@@ -1,4 +1,4 @@
-# Michael-Balyan
+# Michael Balyan
 Personal profile README for my GitHub page.
 
 # Hi there, I'm Michael! 👋
