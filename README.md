@@ -9,7 +9,7 @@ Personal profile README for my GitHub page.
 
 ### 🛠 Tech Stack
 - **Languages:** Java, C#, SQL
-- **Tools:** IntelliJ IDEA Ultimate, Git, GitHub
+- **Tools:** IntelliJ IDEA Ultimate, Visual Studio, VS Code, Google Antigravity, GitHub
 
 ### 🌱 I’m currently learning
 - Java 
