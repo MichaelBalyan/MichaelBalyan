@@ -13,6 +13,8 @@ Personal profile README for my GitHub page.
 
 ### 🌱 I’m currently learning
 - Java 
+- HTML
+- CSS
 - JavaScript
 - C#
 
