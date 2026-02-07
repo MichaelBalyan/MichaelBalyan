@@ -8,7 +8,7 @@ Personal profile README for my GitHub page.
 - **Major:** Software Engineering
 
 ### 🛠 Tech Stack
-- **Languages:** Java, C#, SQL
+- **Languages:** Java, C#, HTML, CSS, SQL
 - **Tools:** IntelliJ IDEA Ultimate, Visual Studio, VS Code, Google Antigravity, GitHub
 
 ### 🌱 I’m currently learning
