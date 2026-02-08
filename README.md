@@ -17,7 +17,8 @@ Personal profile README for my GitHub page.
 - CSS
 - JavaScript
 - C#
-
+- SQL
+- MS Word, Excel
 - Clean Code principles
 
 ### 📫 How to reach me
