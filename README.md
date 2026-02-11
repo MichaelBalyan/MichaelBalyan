@@ -7,7 +7,7 @@ Personal profile README for my GitHub page.
 </p>
 
 ### 🎓 Education
-- **College:** Yerevan State College of Informatics <img src="https://eipq.am/images/logo.png" width="20" style="margin-top: -100px">
+- **College:** Yerevan State College of Informatics <img src="https://eipq.am/images/logo.png" width="20" style="padding-top: -100px">
 - **Major:** Software Engineering
 
 ### 🛠 Tech Stack
