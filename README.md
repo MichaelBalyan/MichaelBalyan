@@ -2,7 +2,6 @@
 Personal profile README for my GitHub page.
 
 # Hi there, I'm Michael! 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZuJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXNoS54vX6X/giphy.gif" width="300">
 
 ### 🎓 Education
 - **College:** Yerevan State College of Informatics
@@ -21,6 +20,10 @@ Personal profile README for my GitHub page.
 - SQL
 - MS Word, Excel
 - Clean Code principles
+
+### 📊 My GitHub Stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelBalyan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelBalyan&layout=compact&theme=radical)
 
 ### 🛠 Tech Stack
 <p align="left">
