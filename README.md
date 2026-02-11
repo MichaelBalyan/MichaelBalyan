@@ -42,7 +42,7 @@ Personal profile README for my GitHub page.
 ### 🎮 My Created Games with AI
 - 🎮 AirSlash Game
   <p align="center">
-    <img src="AirSlashAnimations.gif" width="600">
+    <img src="AirSlashAnimations.gif" width="1000">
   </p>
   <p align="center">
     <a href="https://airslash-game.netlify.app/">Live Demo</a>
