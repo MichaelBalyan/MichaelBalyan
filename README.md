@@ -2,6 +2,7 @@
 Personal profile README for my GitHub page.
 
 # Hi there, I'm Michael! 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZuJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXNoS54vX6X/giphy.gif" width="300">
 
 ### 🎓 Education
 - **College:** Yerevan State College of Informatics
