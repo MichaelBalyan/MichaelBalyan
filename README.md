@@ -3,7 +3,7 @@ Personal profile README for my GitHub page.
 
 # Hi there, I'm Michael! 👋
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlanlnbzE1OXQwcHlzOGppd3M5ZHN0ZnNvbjl0YW14dHQ0N2JhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800">
+  <img src="https://tenor.com/view/coding-gif-10599410442824479167" width="800">
 </p>
 
 ### 🎓 Education
