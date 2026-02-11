@@ -40,7 +40,13 @@ Personal profile README for my GitHub page.
 - Clean Code principles
 
 ### 🎮 My Created Games with AI
-- https://airslash-game.netlify.app/
+- 🎮 AirSlash Game
+  <p align="center">
+    <img src="AirSlashAnimations.gif" width="600">
+  </p>
+  <p align="center">
+    <a href="https://airslash-game.netlify.app/">Live Demo</a>
+  </p>
 
 ### 📫 How to reach me
 - balyan.michael@gmail.com
