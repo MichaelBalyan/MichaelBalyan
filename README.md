@@ -26,7 +26,7 @@ Personal profile README for my GitHub page.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" alt="Visual Studio 2026" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" alt="Google Antigravity" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
 ### 🌱 I’m currently learning
