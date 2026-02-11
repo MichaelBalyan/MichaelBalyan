@@ -22,7 +22,7 @@ Personal profile README for my GitHub page.
 
 - **Tools:**
 <p align="left">
-  <img src="https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj" alt="IntelliJ IDEA Ultimate" width="50" height="50"/>
+  <img src="https://shop.acpcomputer.com/wp-content/uploads/2025/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA Ultimate" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" alt="Visual Studio 2026" width="40" height="40"/>
 </p>
 IntelliJ IDEA Ultimate, Visual Studio, VS Code, Google Antigravity, GitHub
