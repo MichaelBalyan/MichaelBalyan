@@ -12,7 +12,7 @@ Personal profile README for my GitHub page.
 
 ### 🛠 Tech Stack
 - **Languages:**
-<p align="left">
+&nbsp;&nbsp; <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
