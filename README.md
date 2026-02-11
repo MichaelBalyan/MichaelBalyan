@@ -21,12 +21,12 @@ Personal profile README for my GitHub page.
 </p>
 
 - **Tools:**
-<p align="left" margin-left: 10>
-  <img src="https://shop.acpcomputer.com/wp-content/uploads/2025/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA Ultimate" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" alt="Visual Studio 2026" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" alt="Google Antigravity" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+<p align="left">
+  <img src="https://shop.acpcomputer.com/wp-content/uploads/2025/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA Ultimate" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png" alt="Visual Studio 2026" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" alt="Google Antigravity" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
 ### 🌱 I’m currently learning
