@@ -39,5 +39,8 @@ Personal profile README for my GitHub page.
 - MS Word, Excel
 - Clean Code principles
 
+### 🎮 My Created Games with AI
+- https://airslash-game.netlify.app/
+
 ### 📫 How to reach me
 - balyan.michael@gmail.com
