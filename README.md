@@ -19,9 +19,11 @@ Personal profile README for my GitHub page.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
+
 - **Tools:**
 <p align="left">
   <img src="https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj" alt="IntelliJ IDEA Ultimate" width="40" height="40"/>
+  <img src="[https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1280px-Visual_Studio_Icon_2026.svg.png)" alt="Visual Studio 2026" width="40" height="40"/>
 </p>
 IntelliJ IDEA Ultimate, Visual Studio, VS Code, Google Antigravity, GitHub
 
