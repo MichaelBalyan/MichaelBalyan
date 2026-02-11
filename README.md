@@ -7,7 +7,7 @@ Personal profile README for my GitHub page.
 </p>
 
 ### 🎓 Education
-- **College:** Yerevan State College of Informatics <img src="https://eipq.am/images/logo.png" width="50">
+- **College:** Yerevan State College of Informatics <img src="https://eipq.am/images/logo.png" width="20">
 - **Major:** Software Engineering
 
 ### 🛠 Tech Stack
@@ -23,10 +23,6 @@ Personal profile README for my GitHub page.
 - SQL
 - MS Word, Excel
 - Clean Code principles
-
-### 📊 My GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelBalyan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelBalyan&layout=compact&theme=radical)
 
 ### 🛠 Tech Stack
 <p align="left">
