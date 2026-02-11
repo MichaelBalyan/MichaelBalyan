@@ -52,5 +52,10 @@ Personal profile README for my GitHub page.
 
 Play now clicking **"Live Demo"** in bottom of the gif file.
 
+### 📊 My GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelBalyan&show_icons=true&theme=dark&hide_border=true" alt="Michael's stats" />
+</p>
+
 ### 📫 How to reach me
 - balyan.michael@gmail.com
