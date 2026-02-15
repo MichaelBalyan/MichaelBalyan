@@ -56,7 +56,7 @@ Play now by clicking **"Live Demo"** below the animation.
 
 - **🧩 2048: Flow Game**
 <p align="center">
-  <img src="2048:FlowAnimations.gif" width="800">
+  <img src="2048_FlowAnimations.gif" width="800">
 </p>
 <p align="center">
   <a href="https://2048-flow-game.netlify.app/">Live Demo</a>
