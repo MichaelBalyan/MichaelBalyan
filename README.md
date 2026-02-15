@@ -40,7 +40,7 @@ Personal profile README for my GitHub page.
 - Clean Code principles
 
 ### 🎮 My Created Games with AI
-- **🍎 AirSlash Game**
+- **💣 AirSlash Game**
   <p align="center">
     <img src="AirSlashAnimations.gif" width="800">
   </p>
